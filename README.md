@@ -4,6 +4,8 @@ Data is the most important aspect of Data Science, Data Engineering and Data Ana
 
 ## Data Generations
 
+### Extensions:
+
 | ID | Technique | When to use |
 |--------|-----------|-------------|
 | 1 | Guided extension | When proportionality pattern is defined |
@@ -12,3 +14,13 @@ Data is the most important aspect of Data Science, Data Engineering and Data Ana
 | 4 | Guided biased extension | When proportionality pattern is defined and a bias is expected |
 | 5 | Unguided biased extension | When proportionality pattern is undefined  yet a bias is expected |
 | 6 | Unguided normalized extension | When proportionality pattern is defined and a particular data needs variations |
+
+### Generations
+
+| ID | Technique | When to use |
+|----|-----------|-------------|
+| 1 | Blind Generation | When just filling data are needed |
+| 2 | Distributed Generation | When the generated data is expected to follow a particular distribution |
+| 3 | Random Generation | When the data needs a high randomness and hard for fitting |
+| 4 | Phenomenal Generation | When the data generated is indicating of some phenomena |
+| 5 | Natural Generation | Adding natural datasets combinations |
