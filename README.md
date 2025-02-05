@@ -4,7 +4,7 @@ Data is the most important aspect of Data Science, Data Engineering and Data Ana
 
 ## Data Generations
 
-| S. No. | Technique | When to use |
+| ID | Technique | When to use |
 |--------|-----------|-------------|
 | 1 | Guided extension | When proportionality pattern is defined |
 | 2 | Unguided extension | When proportionality pattern is undefined |
